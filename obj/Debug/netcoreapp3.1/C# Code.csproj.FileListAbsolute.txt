@@ -1,0 +1,27 @@
+C:\Users\moren\OneDrive\Desktop\C# Code\bin\Debug\netcoreapp3.1\C# Code.exe
+C:\Users\moren\OneDrive\Desktop\C# Code\bin\Debug\netcoreapp3.1\C# Code.deps.json
+C:\Users\moren\OneDrive\Desktop\C# Code\bin\Debug\netcoreapp3.1\C# Code.runtimeconfig.json
+C:\Users\moren\OneDrive\Desktop\C# Code\bin\Debug\netcoreapp3.1\C# Code.runtimeconfig.dev.json
+C:\Users\moren\OneDrive\Desktop\C# Code\bin\Debug\netcoreapp3.1\C# Code.dll
+C:\Users\moren\OneDrive\Desktop\C# Code\bin\Debug\netcoreapp3.1\C# Code.pdb
+C:\Users\moren\OneDrive\Desktop\C# Code\obj\Debug\netcoreapp3.1\C# Code.csprojAssemblyReference.cache
+C:\Users\moren\OneDrive\Desktop\C# Code\obj\Debug\netcoreapp3.1\C# Code.AssemblyInfoInputs.cache
+C:\Users\moren\OneDrive\Desktop\C# Code\obj\Debug\netcoreapp3.1\C# Code.AssemblyInfo.cs
+C:\Users\moren\OneDrive\Desktop\C# Code\obj\Debug\netcoreapp3.1\C# Code.csproj.CoreCompileInputs.cache
+C:\Users\moren\OneDrive\Desktop\C# Code\obj\Debug\netcoreapp3.1\C# Code.dll
+C:\Users\moren\OneDrive\Desktop\C# Code\obj\Debug\netcoreapp3.1\C# Code.pdb
+C:\Users\moren\OneDrive\Desktop\C# Code\obj\Debug\netcoreapp3.1\C# Code.genruntimeconfig.cache
+c:\Users\moren\OneDrive\Desktop\C# Stuff\C# Code\bin\Debug\netcoreapp3.1\C# Code.exe
+c:\Users\moren\OneDrive\Desktop\C# Stuff\C# Code\bin\Debug\netcoreapp3.1\C# Code.deps.json
+c:\Users\moren\OneDrive\Desktop\C# Stuff\C# Code\bin\Debug\netcoreapp3.1\C# Code.runtimeconfig.json
+c:\Users\moren\OneDrive\Desktop\C# Stuff\C# Code\bin\Debug\netcoreapp3.1\C# Code.runtimeconfig.dev.json
+c:\Users\moren\OneDrive\Desktop\C# Stuff\C# Code\bin\Debug\netcoreapp3.1\C# Code.dll
+c:\Users\moren\OneDrive\Desktop\C# Stuff\C# Code\bin\Debug\netcoreapp3.1\C# Code.pdb
+c:\Users\moren\OneDrive\Desktop\C# Stuff\C# Code\obj\Debug\netcoreapp3.1\C# Code.csproj.AssemblyReference.cache
+c:\Users\moren\OneDrive\Desktop\C# Stuff\C# Code\obj\Debug\netcoreapp3.1\C# Code.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\moren\OneDrive\Desktop\C# Stuff\C# Code\obj\Debug\netcoreapp3.1\C# Code.AssemblyInfoInputs.cache
+c:\Users\moren\OneDrive\Desktop\C# Stuff\C# Code\obj\Debug\netcoreapp3.1\C# Code.AssemblyInfo.cs
+c:\Users\moren\OneDrive\Desktop\C# Stuff\C# Code\obj\Debug\netcoreapp3.1\C# Code.csproj.CoreCompileInputs.cache
+c:\Users\moren\OneDrive\Desktop\C# Stuff\C# Code\obj\Debug\netcoreapp3.1\C# Code.dll
+c:\Users\moren\OneDrive\Desktop\C# Stuff\C# Code\obj\Debug\netcoreapp3.1\C# Code.pdb
+c:\Users\moren\OneDrive\Desktop\C# Stuff\C# Code\obj\Debug\netcoreapp3.1\C# Code.genruntimeconfig.cache
